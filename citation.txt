@@ -1,0 +1,7 @@
+@inproceedings{REPO-372,
+    author = "Goodwin, Walter and Vaze, Sagar and Havoutis, Ioannis and Posner, Ingmar",
+    booktitle = "2022 International Conference on Robotics and Automation (ICRA)",
+    pages = "11138-11144",
+    title = "{Semantically Grounded Object Matching for Robust Robotic Scene Rearrangement}",
+    year = "2022"
+}
